@@ -1,0 +1,15 @@
+C:\temp\ws-vs2022\ExecicioInterface\ExecicioInterface\obj\Debug\net6.0\ExecicioInterface.csproj.AssemblyReference.cache
+C:\temp\ws-vs2022\ExecicioInterface\ExecicioInterface\obj\Debug\net6.0\ExecicioInterface.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\ws-vs2022\ExecicioInterface\ExecicioInterface\obj\Debug\net6.0\ExecicioInterface.AssemblyInfoInputs.cache
+C:\temp\ws-vs2022\ExecicioInterface\ExecicioInterface\obj\Debug\net6.0\ExecicioInterface.AssemblyInfo.cs
+C:\temp\ws-vs2022\ExecicioInterface\ExecicioInterface\obj\Debug\net6.0\ExecicioInterface.csproj.CoreCompileInputs.cache
+C:\temp\ws-vs2022\ExecicioInterface\ExecicioInterface\bin\Debug\net6.0\ExecicioInterface.exe
+C:\temp\ws-vs2022\ExecicioInterface\ExecicioInterface\bin\Debug\net6.0\ExecicioInterface.deps.json
+C:\temp\ws-vs2022\ExecicioInterface\ExecicioInterface\bin\Debug\net6.0\ExecicioInterface.runtimeconfig.json
+C:\temp\ws-vs2022\ExecicioInterface\ExecicioInterface\bin\Debug\net6.0\ExecicioInterface.dll
+C:\temp\ws-vs2022\ExecicioInterface\ExecicioInterface\bin\Debug\net6.0\ExecicioInterface.pdb
+C:\temp\ws-vs2022\ExecicioInterface\ExecicioInterface\obj\Debug\net6.0\ExecicioInterface.dll
+C:\temp\ws-vs2022\ExecicioInterface\ExecicioInterface\obj\Debug\net6.0\refint\ExecicioInterface.dll
+C:\temp\ws-vs2022\ExecicioInterface\ExecicioInterface\obj\Debug\net6.0\ExecicioInterface.pdb
+C:\temp\ws-vs2022\ExecicioInterface\ExecicioInterface\obj\Debug\net6.0\ExecicioInterface.genruntimeconfig.cache
+C:\temp\ws-vs2022\ExecicioInterface\ExecicioInterface\obj\Debug\net6.0\ref\ExecicioInterface.dll
