@@ -26,9 +26,9 @@ namespace ExercicioInterface
             processingContract.ProcessingContract(contrato, installments);
 
             Console.WriteLine();
-            Console.WriteLine(" ============ ");
+          
             Console.WriteLine(" INSTALLMENTS: ");
-            Console.WriteLine(" ============ ");
+            
             foreach (Installment installment in contrato.Installments)
             {
                 Console.WriteLine(installment);
